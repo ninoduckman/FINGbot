@@ -53,8 +53,14 @@ client.on('messageCreate', async (message) => {
             const input = args.slice(1).join(' ').toUpperCase();
             const materia = materias[input] || input;
             const e = fechasExamenes.find(ex => ex.subject === materia);
+            const [day, month, year] = e.date.split('/');
+            const examDate = new Date(`${year}-${month}-${day}T${e.time}`);
+    
+            const options = { weekday: 'long', month: 'long', day: 'numeric' };
+            const formattedDate = examDate.toLocaleDateString('es-UY', options);
+            const formattedTime = examDate.toLocaleTimeString('es-UY', { hour: '2-digit', minute: '2-digit' });
             if(e != undefined)
-                message.reply(e.date + " " + e.time);
+                message.reply(`## 📚 ${e.subject}\n🗓️   ${formattedDate}\n🕒   ${formattedTime}`);
             else
                 message.reply("no hay examen con ese nombre :(")
         }
