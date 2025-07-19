@@ -1,0 +1,58 @@
+{
+  "P1": [
+    "PROGRAMACION 1",
+    ""
+  ],
+  "P2": [
+    "PROGRAMACION 2",
+    ""
+  ],
+  "P3": [
+    "PROGRAMACION 3",
+    ""
+  ],
+  "P4": [
+    "PROGRAMACION 4",
+    "https://eva.fing.edu.uy/mod/forum/view.php?id=219312"
+  ],
+  "CDIV": [
+    "CALCULO DIF. E INTEGRAL EN UNA VARIABLE",
+    ""
+  ],
+  "CDIVV": [
+    "CALCULO DIF. E INTEGRAL EN VARIAS VARIABLES",
+    ""
+  ],
+  "GAL": [
+    "GEOMETRIA Y ALGEBRA LINEAL 1",
+    ""
+  ],
+  "GAL1": [
+    "GEOMETRIA Y ALGEBRA LINEAL 1",
+    ""
+  ],
+  "GAL2": [
+    "GEOMETRIA Y ALGEBRA LINEAL 2",
+    "https://eva.fing.edu.uy/mod/forum/view.php?id=128227"
+  ],
+  "MD1": [
+    "MATEMATICA DISCRETA 1",
+    ""
+  ],
+  "MD2": [
+    "MATEMATICA DISCRETA 2",
+    ""
+  ],
+  "LOGICA": [
+    "LOGICA",
+    "https://eva.fing.edu.uy/mod/forum/view.php?id=23483"
+  ],
+  "PYE": [
+    "PROBABILIDAD Y ESTADISTICA",
+    "https://eva.fing.edu.uy/mod/forum/view.php?id=116411"
+  ],
+  "ARQCOMP": [
+    "ARQUITECTURA DE COMPUTADORAS",
+    ""
+  ]
+}
