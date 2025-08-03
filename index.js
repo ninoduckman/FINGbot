@@ -60,7 +60,7 @@ async function checkForum(name, channel) {
     const url = materiaInfo[1];
     if (!url) {
         console.log(name);
-        if(channel) channel.send("Este canal no tiene un foro asociado! pidele a un administrador que utilice `^agregarForo " + name + " {url}`");
+        if (channel) channel.send("Este canal no tiene un foro asociado! pidele a un administrador que utilice `^agregarForo " + name + " {url}`");
         return;
     }
 
@@ -138,9 +138,10 @@ async function checkAllForums() {
         await checkForum(name);
     }
 }
-cron.schedule("1 2 * * *", () => {
+cron.schedule("0 12,18,23 * * *", () => {
     checkAllForums();
 });
+
 
 // Bot is ready 
 client.once('ready', () => {
@@ -264,6 +265,33 @@ client.on('messageCreate', async (message) => {
                 saveMaterias();
 
                 message.reply(`🔗 Link actualizado para **${code}**:\n${link}`);
+            }
+            break;
+        case "^subirExamenes":
+        case "^subirParciales":
+            {
+                if (!message.member.permissions.has("Administrator")) {
+                    return message.reply("❌ Solo administradores.");
+                }
+
+                const attachment = message.attachments.first();
+                if (!attachment) {
+                    return message.reply("❌ Debes adjuntar un archivo PDF.");
+                }
+
+                const expectedFile = args[0] === "^subirExamenes" ? "examenes.pdf" : "parciales.pdf";
+                const savePath = `./horarios/${expectedFile}`;
+
+                if (!attachment.name.toLowerCase().endsWith(".pdf")) {
+                    return message.reply("❌ Solo se aceptan archivos PDF.");
+                }
+
+                const res = await fetch(attachment.url);
+                const buffer = await res.arrayBuffer();
+                const fs = require("fs");
+                fs.writeFileSync(savePath, Buffer.from(buffer));
+
+                message.reply(`📁 Se ha actualizado el archivo **${expectedFile}** correctamente.`);
             }
             break;
         case "^help":
