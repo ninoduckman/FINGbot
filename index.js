@@ -92,12 +92,34 @@ async function checkForum(name, channel) {
             const $$ = cheerio.load(postHtml);
 
             const firstPost = $$('.post-content-container').first();
-            const paragraphs = [];
+const paragraphs = [];
 
-            firstPost.find('p').each((i, el) => {
-                const text = $$(el).text().trim();
-                if (text) paragraphs.push(text);
-            });
+firstPost.children().each((i, el) => {
+    const tag = el.tagName?.toLowerCase();
+
+    if (!tag) return;
+
+    if (tag === 'p' || tag === 'div') {
+        const text = $$(el).text().trim();
+        if (text) paragraphs.push(text);
+    } else if (tag === 'ul' || tag === 'ol') {
+        const isOrdered = tag === 'ol';
+        $$(el).find('li').each((j, li) => {
+            const itemText = $$(li).text().trim();
+            if (itemText) {
+                paragraphs.push(`${isOrdered ? `${j + 1}.` : '•'} ${itemText}`);
+            }
+        });
+    } else if (tag === 'blockquote') {
+        const quote = $$(el).text().trim();
+        if (quote) paragraphs.push(`> ${quote.replace(/\n/g, '\n> ')}`);
+    } else {
+        // Fallback: try to extract any meaningful text from other tags
+        const fallbackText = $$(el).text().trim();
+        if (fallbackText) paragraphs.push(fallbackText);
+    }
+});
+
 
             // Combine into one message block (or split if too long for Discord)
             const postText = paragraphs.join('\n\n');
