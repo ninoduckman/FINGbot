@@ -58,7 +58,7 @@ async function checkForum(name, channel) {
         return;
     }
     const url = materiaInfo[1];
-    if (!url) {
+    if (!url || url == "/") {
         console.log(name);
         if (channel) channel.send("Este canal no tiene un foro asociado! pidele a un administrador que utilice `^agregarForo " + name + " {url}`");
         return;
@@ -77,7 +77,11 @@ async function checkForum(name, channel) {
         const title = aTag.text().trim();
         const link = aTag.attr("href")?.trim();
 
-        if (!title || !link) { console.log(firstDiscussion); return; }
+        if (!title || !link) { 
+            console.log(firstDiscussion); 
+            if(channel)channel.send("Lo siento, pero no puedo ver el foro de este canal, parece que los creadores de este curso se sienten demasiado importantes para dejarme ver el foro :)");
+            return; 
+        }
 
         // Avoid duplicate notifications
         if (lastSeenTitles[name] !== title) {
