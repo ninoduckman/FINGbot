@@ -1,0 +1,427 @@
+[
+  {
+    "subject": "Int. a la Ingeniería Bioquímica",
+    "date": "19/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Geometría y Álgebra Lineal 1",
+    "date": "19/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Comportamiento Mecánico de Materiales 2",
+    "date": "19/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Ingeniería Ambiental para la Industria de Procesos",
+    "date": "20/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": " Int. a las Ecuaciones Diferenciales",
+    "date": "20/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Programación 3",
+    "date": "20/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Int. a la Ingeniería Sanitaria",
+    "date": "20/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Sistemas y Control",
+    "date": "20/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Geometría y Álgebra Lineal 2",
+    "date": "20/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Diseño de Sistemas Médicos Implantables Activos",
+    "date": "20/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Costos para Ingeniería",
+    "date": "20/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Int. a la Mecánica de los Fluidos (TEC)",
+    "date": "20/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Teoría de Circuitos",
+    "date": "23/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Física 3",
+    "date": "23/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Física 1",
+    "date": "23/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Generadores de Vapor",
+    "date": "23/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Computación 1",
+    "date": "23/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Tiempos y Métodos",
+    "date": "23/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Matemática 1 (TEC)",
+    "date": "23/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Matemática 2 (TEC)",
+    "date": "23/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Fund. de Aprendizaje Automático y Rec. De Patrones",
+    "date": "24/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Resistencia de Materiales 2",
+    "date": "24/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Vibraciones y Ondas",
+    "date": "24/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Fundamentos de la Producción de Celulosa y Papel",
+    "date": "24/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Matemática Discreta 2",
+    "date": "24/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Matemática Discreta 1",
+    "date": "24/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Redes de Computadoras",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Electrotécnica II",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Ingeniería Clínica",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Ingeniería de las Reacciones Químicas 2",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Máquinas Eléctricas",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Gestión del Mantenimiento TEC",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Generadores de Vapor (TEC)",
+    "date": "24/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Física 2",
+    "date": "25/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Int. al Transporte",
+    "date": "25/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Física Térmica",
+    "date": "25/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Fluidodinámica",
+    "date": "25/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Resistencia de Materiales 1",
+    "date": "25/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Arquitectura de Computadoras",
+    "date": "25/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Sistemas Oleohidráulicos y Neumáticos",
+    "date": "25/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Redes de Datos 1",
+    "date": "25/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Metalurgia de Física  (TEC)",
+    "date": "25/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Int. a la Termodinámica (TEC)",
+    "date": "25/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Señales Aleatorias y Modulación",
+    "date": "26/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Geología de Ingeniería",
+    "date": "26/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Mecánica Newtoniana",
+    "date": "26/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Programación 2",
+    "date": "26/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Refrigeración",
+    "date": "26/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Transferencia de Calor 1",
+    "date": "26/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Seguridad Industrial (TEC)",
+    "date": "26/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Proyecto de Inversión (TEC)",
+    "date": "26/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Geodesia Física",
+    "date": "26/09/2025",
+    "time": "16:00"
+  },
+  {
+    "subject": "Int. a la Ingeniería de Procesos",
+    "date": "26/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Higiene y Serv. De Plantas Proc. de Alimentos",
+    "date": "26/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Tecnologías y Servicios Industriales 2",
+    "date": "26/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Costos para Ingeniería (TEC)",
+    "date": "26/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Probabilidad y Estadística",
+    "date": "27/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Control de Calidad",
+    "date": "27/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Ingeniería Biomédica",
+    "date": "27/09/2025",
+    "time": "09:00"
+  },
+  {
+    "subject": "Programación 1",
+    "date": "27/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Estudio del Trabajo (TEC)",
+    "date": "27/09/2025",
+    "time": "14:00"
+  },
+  {
+    "subject": "Matemática Inicial",
+    "date": "29/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Electromagnetismo",
+    "date": "29/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Cálculo Dif. e Int. en Una Variable",
+    "date": "29/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Ingles Técnico (TEC)",
+    "date": "29/09/2025",
+    "time": "16:00"
+  },
+  {
+    "subject": "Mecánica de los Fluidos",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Fundamentos de Bases de Datos",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Met. Comput. Aplic. Al Cálculo Estructural",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Dinámica de Máquinas y Vibraciones",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Transferencia de Calor y Masa 1",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Energía Aplicada a la Industria",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Dinámica y Control de Procesos",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Elementos de Máquinas (TEC)",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Motores de Comb. Int. y Turbinas de Gas (TEC)",
+    "date": "29/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Cálculo Vectorial",
+    "date": "30/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Instalaciones Eléctricas",
+    "date": "30/09/2025",
+    "time": "08:00"
+  },
+  {
+    "subject": "Cálculo Dif. e Int. en Varias Variables",
+    "date": "30/09/2025",
+    "time": "13:00"
+  },
+  {
+    "subject": "Metalurgia Física",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Métodos Numéricos",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Mecánica Aplicada",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Introducción a la Ciencia de los Materiales (TEC)",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Física 1 (TEC)",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Int. a la Electrotecnia  (TEC)",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Refrigeración Industrial (TEC)",
+    "date": "30/09/2025",
+    "time": "18:00"
+  },
+  {
+    "subject": "Economía",
+    "date": "04/10/2025",
+    "time": "14:00"
+  }
+]
