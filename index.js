@@ -10,6 +10,7 @@ const SEEN_FILE = path.join(__dirname, 'seen_posts.json');
 const MATERIAS_FILE = path.join(__dirname, "materias.json");
 
 const fechasExamenes = require('./exams.json');
+const fechasParciales = require('./parciales.json');
 
 let lastSeenTitles = {};
 
@@ -203,6 +204,23 @@ client.on('messageCreate', async (message) => {
                 else
                     message.reply("no hay examen con ese nombre :(")
             }
+            break;
+        case "^parcial":
+            {
+                const input = args.slice(1).join(' ').toUpperCase();
+                const materia = materias[input][0] || input;
+                const e = fechasParciales.find(ex => ex.subject === materia);
+                const [day, month, year] = e.date.split('/');
+                const examDate = new Date(`${year}-${month}-${day}T${e.time}`);
+
+                const options = { weekday: 'long', month: 'long', day: 'numeric' };
+                const formattedDate = examDate.toLocaleDateString('es-UY', options);
+                const formattedTime = examDate.toLocaleTimeString('es-UY', { hour: '2-digit', minute: '2-digit' });
+                if (e != undefined)
+                    message.reply(`## 📚 ${e.subject}\n🗓️   ${formattedDate}\n🕒   ${formattedTime}`);
+                else
+                    message.reply("no hay parcial con ese nombre :(")
+                }
             break;
         case "^matricularse":
             {
