@@ -8,11 +8,33 @@ const path = require('path');
 
 const SEEN_FILE = path.join(__dirname, 'seen_posts.json');
 const MATERIAS_FILE = path.join(__dirname, "materias.json");
+const weeks = require('./weeks.json');
 
 const fechasExamenes = require('./exams.json');
 const fechasParciales = require('./parciales.json');
 
 let lastSeenTitles = {};
+
+
+function parseLocalDate(str) {
+  const [year, month, day] = str.split('-').map(Number);
+  return new Date(year, month - 1, day); // months are 0-indexed
+}
+
+function getCurrentWeek() {
+  const today = new Date();
+  for (const [weekName, data] of Object.entries(weeks)) {
+    const start = parseLocalDate(data.start);
+    const end = parseLocalDate(data.end);
+    if (today >= start && today <= end) return { weekName, ...data };
+  }
+  return null;
+}
+function getWeek(name) {
+    const data = weeks[name];
+    if (data) return { weekName: name, ...data };
+    return null;
+}
 
 function loadSeenPosts() {
     if (fs.existsSync(SEEN_FILE)) {
@@ -352,6 +374,25 @@ client.on('messageCreate', async (message) => {
                 fs.writeFileSync(savePath, Buffer.from(buffer));
 
                 message.reply(`📁 Se ha actualizado el archivo **${expectedFile}** correctamente.`);
+            }
+            break;
+        case "^p3lectura":
+            {
+                if(args.length > 1)
+                    var current = getWeek("week" + args[1]);
+                else var current = getCurrentWeek();
+                if (current) {
+                console.log(`📘 ${current.weekName} (${current.start}–${current.end})`);
+                console.log("Sections:", current.sections.join(", "));
+                //get file corresponding to the week
+                message.reply(`📘 **Semana ${current.weekName.slice(4)}** (${current.start}–${current.end})\nSecciones: ${current.sections.join(", ")}`);
+                const filepath = `./weeks/${current.weekName}.pdf`;
+                if (fs.existsSync(filepath)) {
+                    await message.reply({ files: [filepath] });
+                }
+                } else {
+                console.log("No active week right now.");
+                }
             }
             break;
         case "^help":
