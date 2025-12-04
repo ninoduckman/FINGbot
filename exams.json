@@ -1,1 +1,1628 @@
-[]
+[
+  {
+    "code": "1611",
+    "subject": "INT. AL ANALISIS RURAL",
+    "date": "04/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2508",
+    "subject": "TRANSPORTE AEREO",
+    "date": "04/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1468",
+    "subject": "GEODESIA FISICA",
+    "date": "04/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2244",
+    "subject": "ELEMENTOS DE GESTION LOGISTICA",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1723",
+    "subject": "INT. A LA CIENCIA DE MATERIALES",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1324",
+    "subject": "PROGRAMACION 4",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1729",
+    "subject": "TRANSPORTE INDUSTRIAL",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM53",
+    "subject": "ELEMENTOS DE MAQUINAS",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM41",
+    "subject": "TRANSFERENCIA DE CALOR",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM73",
+    "subject": "INSTALACIONES ELECTRICAS",
+    "date": "04/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2231",
+    "subject": "CAMINOS Y CALLES 1",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1855",
+    "subject": "GESTION DE CALIDAD AMBIENTAL",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q69",
+    "subject": "INGENIERIA DE LAS REACCIONES QUIMICAS 1",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1715",
+    "subject": "BINT. A LA CONSTRUCCION",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2302",
+    "subject": "INT. A LA INGENIERIA NAVAL",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TCI22",
+    "subject": "LEGISLACION TERRITORIAL",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1027",
+    "subject": "LOGICA",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1818",
+    "subject": "MOTORES DE COMBUSTION INTERNA",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1900",
+    "subject": "TOPOGRAFIA ALTIMETRICA",
+    "date": "05/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q101",
+    "subject": "INGENIERIA AMBIENTAL PARA LA INDUSTRIA DE PROCESOS",
+    "date": "05/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1066",
+    "subject": "FUNCIONES DE VARIABLE COMPLEJA",
+    "date": "05/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1267",
+    "subject": "TALLER REPR. Y COM. GRÁFICA – MÓDULO_CIVIL",
+    "date": "05/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1954",
+    "subject": "GESTION DE CALIDAD",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1920",
+    "subject": "GESTION DE MANTENIMIENTO",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1724",
+    "subject": "BMETALURGIA DE TRANSFORMACION",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2505",
+    "subject": "TRANSPORTE FERROVIARIO",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM60",
+    "subject": "COSTOS PARA INGENIERIA",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM55",
+    "subject": "DISEÑO ASISTIDO POR COMPUTADOR",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM75",
+    "subject": "HIDRAULICA Y NEUMATICA",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM46",
+    "subject": "INSTALACIONES GENERALES DE GASES COMBUSTIBLES",
+    "date": "05/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1159",
+    "subject": "INT. A LA FISICA MODERNA",
+    "date": "06/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1129",
+    "subject": "OPTICA",
+    "date": "06/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "5508",
+    "subject": "REDES ELECTRICAS",
+    "date": "06/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1457",
+    "subject": "SEÑALES Y SISTEMAS",
+    "date": "06/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "2511",
+    "subject": "TRANSPORTE URBANO",
+    "date": "06/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1716",
+    "subject": "INT. A LA INGENIERIA DE SOFTWARE",
+    "date": "06/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1539",
+    "subject": "GESTION DE LOS RRHH. EN LA PROD. DE BIENES Y SERV.",
+    "date": "06/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2707",
+    "subject": "INT. AL CONTROL INDUSTRIAL",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "5817",
+    "subject": "ANTENAS Y PROPAGACION",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "2602",
+    "subject": "ELEMENTOS DE NAVEGACION",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "Q89",
+    "subject": "INGENIERIA DE LOS PROCESOS ELECTROQUIMICOS",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "5518",
+    "subject": "INT. A SIST. DE PROT. DE SIST. ELECT. DE POT.",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "2212",
+    "subject": "METEOROLOGIA DINAMICA Y SINOPTICA",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1825",
+    "subject": "TEC.Y UTILIZACION DE GASES COMBUSTIBLES",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "TIM63",
+    "subject": "ESTUDIO DEL TRABAJO",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1325",
+    "subject": "TEORIA DE LENGUAJES",
+    "date": "06/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "2232",
+    "subject": "CAMINOS Y CALLES 2",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2399",
+    "subject": "DISEÑO HIDROLOGICO",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5715",
+    "subject": "ELECTRONICA FUNDAMENTAL",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2393",
+    "subject": "ESTRUCTURAS DE ACERO",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1464",
+    "subject": "GEODESIA GEOMETRICA",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2382",
+    "subject": "HORMIGON ESTRUCTURAL 1",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2603",
+    "subject": "MAQUINARIA NAVAL",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1359",
+    "subject": "TALLER DE DATOS ESPAC.Y SIST.DE INF.GEO.",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5520",
+    "subject": "TRANSPORTE DE ENERGIA ELECTRICA",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TCI30",
+    "subject": "COORDENADAS Y SISTEMAS DE REFERENCIA EN GEODESIA",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2414",
+    "subject": "SISTEMAS DE REFERENCIA EN GEODESIA",
+    "date": "08/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1224",
+    "subject": "ECONOMIA",
+    "date": "08/12/2025",
+    "time": "10:00"
+  },
+  {
+    "code": "1224",
+    "subject": "AECONOMIA (AREA)",
+    "date": "08/12/2025",
+    "time": "10:00"
+  },
+  {
+    "code": "Q22",
+    "subject": "BFENOMENOS DE TRANSPORTE EN ING. DE PROCESOS",
+    "date": "08/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1854",
+    "subject": "CALIDAD DE AGUAS",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2108",
+    "subject": "ELECTROTECNICA I",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1508",
+    "subject": "MATERIALES Y ENSAYOS",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1461",
+    "subject": "MEDIDAS ELECTRICAS",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5866",
+    "subject": "TECNOLOGIAS DE REDES Y SERVICIOS DE TELECOMUNICACIONES",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM40",
+    "subject": "INT. A LA MECANICA DE LOS FLUIDOS",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM54",
+    "subject": "METALURGIA DE TRANSFORMACION",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM74",
+    "subject": "AUTOMATAS PROGRAMABLES",
+    "date": "08/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1944",
+    "subject": "ADMINISTRACION GENERAL PARA INGENIEROS",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2230",
+    "subject": "ELEMENTOS DE TOPOGRAFIA",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1858",
+    "subject": "FOTOGRAMETRIA",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1215",
+    "subject": "REPRESENTACION GRAFICA PARA INDUSTRIAS DE PROC.",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1924",
+    "subject": "COMERCIALIZACION",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1699",
+    "subject": "PRACTICA TOPOGRAFICA 2",
+    "date": "09/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1223",
+    "subject": "CIENCIA TECNOLOGIA Y SOCIEDAD",
+    "date": "09/12/2025",
+    "time": "10:00"
+  },
+  {
+    "code": "1228",
+    "subject": "CIENCIA TECNOLOGIA Y SOCIEDAD",
+    "date": "09/12/2025",
+    "time": "10:00"
+  },
+  {
+    "code": "1223",
+    "subject": "ACIENCIA TECNOLOGIA Y SOCIEDAD (AREA)",
+    "date": "09/12/2025",
+    "time": "10:00"
+  },
+  {
+    "code": "2253",
+    "subject": "INT. A LA EVALUACION Y GESTION AMBIENTAL",
+    "date": "09/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "5855",
+    "subject": "REDES DE DATOS 2",
+    "date": "09/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1788",
+    "subject": "FUNDAMENTOS DE ROBOTICA INDUSTRIAL",
+    "date": "09/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1620",
+    "subject": "PRINCIPIOS DE QUIMICA GENERAL",
+    "date": "09/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM30",
+    "subject": "FISICA 1",
+    "date": "09/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TCI24",
+    "subject": "CAPTURA DE DATOS POR PERCEPCION REMOTA",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2366",
+    "subject": "ELASTICIDAD",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1227",
+    "subject": "INGENIERIA LEGAL",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1650",
+    "subject": "INT. A LA INVESTIGACIÓN DE OPERACIONES",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1222",
+    "subject": "INT. AL DERECHO",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2321",
+    "subject": "LABORATORIO DE TECNOLOGIA DEL HORMIGON",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2605",
+    "subject": "MANTENIMIENTO DE BUQUES",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2380",
+    "subject": "MET. COMPUT.APLIC.AL CALCULO ESTRUCTURAL",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1460",
+    "subject": "SEÑALES ALEATORIAS Y MODULACION",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2371",
+    "subject": "TECNOLOGIA DEL HORMIGON",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q104",
+    "subject": "TRATAMIENTO DE EFLUENTES Y RESIDUOS SOLIDOS",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "LIB10",
+    "subject": "TALLER DE INGENIERÍA BIOLÓGICA II",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TCI25",
+    "subject": "INT. A LA EVAL.DE LA CAL.DE LA INF.GEOGR.",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TC25",
+    "subject": "AINT. A LA EVAL.DE LA CAL.DE LA INF.GEOGR.(ÁREA)",
+    "date": "10/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q16",
+    "subject": "INT. A LA PREVENCION DE RIESGOS LABORALES",
+    "date": "10/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1850",
+    "subject": "ENERGIA 1- COMBUSTION",
+    "date": "10/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1030",
+    "subject": "GEOMETRIA Y ALGEBRA LINEAL 1",
+    "date": "10/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1031",
+    "subject": "GEOMETRIA Y ALGEBRA LINEAL 2",
+    "date": "10/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1847",
+    "subject": "HIDROLOGIA AVANZADA II",
+    "date": "10/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "5609",
+    "subject": "ELECTRONICA DE POTENCIA",
+    "date": "10/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM81",
+    "subject": "INGLES TECNICO",
+    "date": "10/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM43",
+    "subject": "MOTORES DE COMB. INT. Y TURBINAS DE GAS",
+    "date": "10/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2309",
+    "subject": "EJERCICIOS DE INGENIERIA SANITARIA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q66",
+    "subject": "BFLUIDODINAMICA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q81",
+    "subject": "BINGENIERIA BIOQUIMICA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1853",
+    "subject": "POTABILIZACION DE AGUAS",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1025",
+    "subject": "PROBABILIDAD Y ESTADISTICA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1883",
+    "subject": "TALLER DE CALIDAD DE DATOS GEOGRAFICOS",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2504",
+    "subject": "TRANSPORTE POR CARRETERA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1882",
+    "subject": "CARTOGRAFIA TEMATICA",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1882",
+    "subject": "ACARTOGRAFÍA TEMÁTICA (ÁREA)",
+    "date": "11/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q77",
+    "subject": "CINT. A LA INGENIERIA BIOQUIMICA",
+    "date": "11/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1915",
+    "subject": "ADMINISTRACION DE OPERACIONES",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1765",
+    "subject": "COMPORTAMIENTO MECANICO DE MATERIALES 2",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1720",
+    "subject": "ELEMENTOS DE MAQUINAS",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2394",
+    "subject": "ENERGIA 2:GEN ENERG PLANTAS VAPOR Y GAS",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2706",
+    "subject": "INSTRUMENTACION INDUSTRIAL",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2381",
+    "subject": "MECANICA ESTRUCTURAL",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2359",
+    "subject": "PUENTES",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5824",
+    "subject": "REDES DE DATOS 1",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5851",
+    "subject": "TECNOLOGIA DE SERVICIOS AUDIOVISUALES",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM20",
+    "subject": "MATEMATICA 1",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM21",
+    "subject": "MATEMATICA 2",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM22",
+    "subject": "MATEMATICA 3",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM70",
+    "subject": "INT. A LA ELECTROTECNIA",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM47",
+    "subject": "INT. A LA COMBUSTION",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM64",
+    "subject": "PROYECTO DE INVERSION",
+    "date": "11/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1422",
+    "subject": "GEODESIA 2",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2210",
+    "subject": "MODULO TALLER EXTENSION ING.AMBIENTAL 1",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2211",
+    "subject": "MODULO TALLER EXTENSION ING.AMBIENTAL 2",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TCI23",
+    "subject": "PRODUCCION CARTOGRAFICA",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q71",
+    "subject": "TECNOLOGIA Y SERV. INDUSTRIALES 1",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q21",
+    "subject": "TERMODINAMICA APL. A LA ING.DE PROCESOS",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5716",
+    "subject": "ELECTRONICA AVANZADA 1",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1064",
+    "subject": "INT. A LAS ECUACIONES DIFERENCIALES",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1893",
+    "subject": "TEORIA Y ANALISIS DE ERRORES",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1895",
+    "subject": "CALCULO Y AJUSTE DE LAS OBSERVACIONES",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2247",
+    "subject": "GEOESTADISTICA APLICADA",
+    "date": "12/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1454",
+    "subject": "ASPECTOS BASICOS DE REDES DE COMPUT",
+    "date": "12/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1446",
+    "subject": "REDES DE COMPUTADORAS",
+    "date": "12/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "Q197",
+    "subject": "DISEÑO DE PROCESOS QUIMICOS",
+    "date": "12/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2397",
+    "subject": "HIDRAULICA FLUVIAL Y MARITIMA",
+    "date": "12/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1023",
+    "subject": "MATEMATICA DISCRETA 1",
+    "date": "12/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "5602",
+    "subject": "MAQUINAS ELECTRICAS",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1764",
+    "subject": "COMPORTAMIENTO MECANICO DE MATERIALES 1",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1922",
+    "subject": "COSTOS PARA INGENIERIA",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2401",
+    "subject": "LEGISLACION Y RELACIONES INDUSTRIALES",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2604",
+    "subject": "TEORIA DEL BUQUE",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM65",
+    "subject": "SEGURIDAD INDUSTRIAL",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM72",
+    "subject": "INSTRUMENTACION Y CONTROL",
+    "date": "12/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1872",
+    "subject": "APLICACIONES DEL ALGEBRA LINEAL",
+    "date": "13/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "2368",
+    "subject": "RESISTENCIA DE MATERIALES 1",
+    "date": "13/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "Q68",
+    "subject": "TRANSFERENCIA DE CALOR Y MASA 2",
+    "date": "13/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1151",
+    "subject": "FISICA 1",
+    "date": "13/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1945",
+    "subject": "PRACTICA DE ADMINISTRACION PARA INGENIEROS",
+    "date": "13/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1700",
+    "subject": "PROCEDIMIENTOS CONST.PARA ESTRUCTURAS",
+    "date": "13/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1910",
+    "subject": "AGRIMENSURA LEGAL 1",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1913",
+    "subject": "AGRIMENSURA LEGAL 2",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1817",
+    "subject": "AGRIMENSURA LEGAL 3",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2014",
+    "subject": "AGRIMENSURA LEGAL 4",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1852",
+    "subject": "DISEÑO DE REDES DE COND.EN ING.SANITARIA",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2512",
+    "subject": "DISEÑO LOGICO",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1152",
+    "subject": "FISICA 2",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1123",
+    "subject": "FISICA TERMICA",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2395",
+    "subject": "HORMIGON ESTRUCTURAL 2",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1513",
+    "subject": "INT. A LOS MICROPROCESADORES",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2258",
+    "subject": "INT. AL SISTEMA CLIMATICO",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2391",
+    "subject": "PLAN. ESTRAT. Y ESTRATEGIA COMPETITIVA",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1824",
+    "subject": "TRANSFERENCIA DE CALOR 2",
+    "date": "15/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1443",
+    "subject": "ARQUITECTURA DE COMPUTADORAS",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1466",
+    "subject": "ARQUITECTURA DE COMPUTADORAS",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1453",
+    "subject": "COMPL.ARQUITECTURA DE COMPUTADORAS",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2256",
+    "subject": "ELEMENTOS DE INGENIERIA AMBIENTAL",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1226",
+    "subject": "MECANICA DE LOS FLUIDOS",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1026",
+    "subject": "MATEMATICA DISCRETA 2",
+    "date": "15/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2320",
+    "subject": "HIDRODINAMICA NAVAL",
+    "date": "15/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2315",
+    "subject": "INT. A LA INGENIERIA SANITARIA",
+    "date": "15/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM50",
+    "subject": "INT. A LA CIENCIA DE LOS MATERIALES",
+    "date": "15/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM31",
+    "subject": "FISICA 2",
+    "date": "15/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM61",
+    "subject": "CONTROL DE CALIDAD",
+    "date": "15/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2023",
+    "subject": "AVALUACIONES 3",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1061",
+    "subject": "CALCULO DIF. E INTEGRAL EN UNA VARIABLE",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2025",
+    "subject": "DISEÑO CATASTRAL",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5717",
+    "subject": "ELECTRONICA AVANZADA 2",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5519",
+    "subject": "ENSAYOS ELECTRICOS Y EQUIPOS DE MEDIA TENSION",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q70",
+    "subject": "INGENIERIA DE LAS REACCIONES QUIMICAS 2",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2388",
+    "subject": "ORDENAMIENTO TERRITORIAL 1",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "5833",
+    "subject": "REDES DE ACCESO",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2016",
+    "subject": "TOPOMETRIA",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1122",
+    "subject": "MECANICA NEWTONIANA",
+    "date": "16/11/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1856",
+    "subject": "MAQUINAS PARA FLUIDOS I",
+    "date": "16/11/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1859",
+    "subject": "MAQUINAS PARA FLUIDOS II",
+    "date": "16/11/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "TIM51",
+    "subject": "METALURGIA FISICA",
+    "date": "16/11/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM32",
+    "subject": "INT. A LA TERMODINAMICA",
+    "date": "16/11/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM44",
+    "subject": "GENERADORES DE VAPOR",
+    "date": "16/11/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1894",
+    "subject": "AVALUACIONES 1",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1618",
+    "subject": "AVALUACIONES 2",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1619",
+    "subject": "CATASTRO",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1833",
+    "subject": "HIDROLOGIA E HIDRAULICA APLICADAS",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2207",
+    "subject": "INT. A LA MECANICA DE SUELOS",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1823",
+    "subject": "TRANSFERENCIA DE CALOR 1",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1599",
+    "subject": "PRACTICA TOPOGRAFICA 1",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2419",
+    "subject": "HORMIGON ESTRUCTURAL 3",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "A65",
+    "subject": "HIGIENE Y SERV. DE PLANTAS PROC. DE ALIMENTOS",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1480",
+    "subject": "CARTOGRAFIA MATEMATICA",
+    "date": "17/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1062",
+    "subject": "CALCULO DIF. E INTEGRAL EN VARIAS VARIABLES",
+    "date": "17/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1815",
+    "subject": "BGENERADORES DE VAPOR",
+    "date": "17/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1033",
+    "subject": "METODOS NUMERICOS",
+    "date": "17/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2041",
+    "subject": "METODOS NUMERICOS",
+    "date": "17/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2600",
+    "subject": "ESTRUCTURAS DE BUQUES",
+    "date": "17/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2019",
+    "subject": "PROYECTO (ING. NAVAL)",
+    "date": "17/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM52",
+    "subject": "COMPORTAMIENTO MEC. DE MATERIALES",
+    "date": "17/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM42",
+    "subject": "MAQUINAS PARA FLUIDOS",
+    "date": "17/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM71",
+    "subject": "MAQUINAS ELECTRICAS",
+    "date": "17/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1892",
+    "subject": "BASES DE DATOS PARA INGENIERIA",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1911",
+    "subject": "FUNDAMENTOS DE BASES DE DATOS",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1467",
+    "subject": "GEODESIA SATELITAL",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2510",
+    "subject": "INT. AL TRANSPORTE",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q198",
+    "subject": "MEDIDAS ELECTRICAS EN INGENIERIA DE PROCESOS",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2412",
+    "subject": "ORDENAMIENTO TERRITORIAL 2",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2316",
+    "subject": "TRATAMIENTO DE EFLUENTES",
+    "date": "18/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1063",
+    "subject": "CALCULO VECTORIAL",
+    "date": "18/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "5905",
+    "subject": "SISTEMAS Y CONTROL",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5507",
+    "subject": "INSTALACIONES ELECTRICAS",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2004",
+    "subject": "PROYECTO",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1312",
+    "subject": "RESISTENCIA DE MATERIALES 2",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM62",
+    "subject": "GESTION DEL MANTENIMIENTO",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "TIM45",
+    "subject": "REFRIGERACION INDUSTRIAL",
+    "date": "18/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1219",
+    "subject": "DISEÑO Y MONTAJE DE LAS INDUSTRIAS DE PROCESOS",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q28",
+    "subject": "FUND. DE LA PROD. DE CELULOSA Y PAPEL",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2389",
+    "subject": "PATOLOGIA DE LAS ESTRUCTURAS",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2352",
+    "subject": "PROCEDIMIENTOS CONST. OBRAS VIALES Y SUELO",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2246",
+    "subject": "SEGURIDAD EN LA CONSTRUCCION",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "TCI28",
+    "subject": "SISTEMAS DE INFORMACION GEOGR. AVANZADO",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1456",
+    "subject": "TEORIA DE CIRCUITOS",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1465",
+    "subject": "TOPOGRAFIA PLANIMETRICA",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2601",
+    "subject": "ALISTAMIENTO NAVAL",
+    "date": "19/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1411",
+    "subject": "COMPUTACION 1",
+    "date": "19/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1719",
+    "subject": "METALURGIA FISICA",
+    "date": "19/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1321",
+    "subject": "PROGRAMACION 2",
+    "date": "19/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1638",
+    "subject": "REFRIGERACIÓN",
+    "date": "19/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1718",
+    "subject": "DINAMICA DE MAQUINAS Y VIBRACION",
+    "date": "19/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5514",
+    "subject": "SUBESTACIONES EN MEDIA TENSION",
+    "date": "19/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2038",
+    "subject": "TIEMPOS Y METODOS",
+    "date": "19/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "1144",
+    "subject": "VIBRACIONES Y ONDAS",
+    "date": "20/12/2025",
+    "time": "09:00"
+  },
+  {
+    "code": "1373",
+    "subject": "PROGRAMACION 1",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "2206",
+    "subject": "GEOLOGIA DE INGENIERIA",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "Q100",
+    "subject": "TECNOLOGIA Y SERV. INDUSTRIALES 2",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "Q59",
+    "subject": "BINT. A LA INGENIERIA DE PROCESOS",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "2240",
+    "subject": "COSTOS",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1510",
+    "subject": "CONTROL DE CALIDAD",
+    "date": "20/12/2025",
+    "time": "14:00"
+  },
+  {
+    "code": "1153",
+    "subject": "FISICA 3",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2356",
+    "subject": "MAMPOSTERIA ESTRUCTURAL",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2375",
+    "subject": "INT. A LA CORROSION DEL HORMIGON ARMADO",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2507",
+    "subject": "TRANSPORTE FLUVIAL Y MARITIMO",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "2386",
+    "subject": "ESTRUCTURAS DE MADERA 1",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1648",
+    "subject": "GEODESIA ASTRONOMICA",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1323",
+    "subject": "PROGRAMACION 3",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1462",
+    "subject": "COMUNICACIONES DIGITALES",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "Q74",
+    "subject": "BTRANSFERENCIA DE CALOR Y MASA 1",
+    "date": "22/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1128",
+    "subject": "ELECTROMAGNETISMO",
+    "date": "22/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "1851",
+    "subject": "SISTEMAS DE CONDUCCION EN ING.SANITARIA",
+    "date": "22/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2200",
+    "subject": "SISTEMAS OLEOHIDRAULICOS Y NEUMATICOS",
+    "date": "22/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "2396",
+    "subject": "OBRAS HIDRAULICAS",
+    "date": "23/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1537",
+    "subject": "SISTEMAS OPERATIVOS",
+    "date": "23/12/2025",
+    "time": "08:00"
+  },
+  {
+    "code": "1805",
+    "subject": "ELEMENTOS DE MECANICA DE LOS FLUIDOS",
+    "date": "23/12/2025",
+    "time": "13:00"
+  },
+  {
+    "code": "2109",
+    "subject": "ELECTROTECNICA II",
+    "date": "23/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "5850",
+    "subject": "ELECTROTECNICA",
+    "date": "23/12/2025",
+    "time": "18:00"
+  },
+  {
+    "code": "Q73",
+    "subject": "MECANICA APLICADA (ING.QUÍM)",
+    "date": "23/12/2025",
+    "time": "18:00"
+  }
+]
