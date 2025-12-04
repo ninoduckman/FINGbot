@@ -1,5 +1,5 @@
 const { checkForum } = require('../utils/forum');
 
-module.exports = async (message) => {
-    await checkForum(message.channel.name.toUpperCase(), message.channel);
+module.exports = async (message, a, client) => {
+    await checkForum(message.channel.name.toUpperCase(), message.channel, client);
 };

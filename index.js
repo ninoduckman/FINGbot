@@ -30,14 +30,14 @@ for (const file of commandFiles) {
 
 // Set up cron job for forum checks
 cron.schedule("0 12,18,23 * * *", () => {
-    checkAllForums();
+    checkAllForums(client);
 });
 
 // Bot is ready 
 client.once('ready', () => {
     console.log(`🤖 Logged in as ${client.user.tag}`);
     loadSeenPosts();
-    checkAllForums(); // Initial check
+    checkAllForums(client); // Initial check
 });
 
 // Listen and respond to messages 
@@ -53,7 +53,7 @@ client.on('messageCreate', async (message) => {
     if (commandName === 'subirexamenes' || commandName === 'subirparciales') {
         const handler = commands.get('subirArchivos');
         if (handler) {
-            await handler(message, [commandName === 'subirexamenes' ? 'examenes' : 'parciales']);
+            await handler(message, [commandName === 'subirexamenes' ? 'examenes' : 'parciales'], client);
         }
         return;
     }

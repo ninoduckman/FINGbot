@@ -2,7 +2,7 @@ const cheerio = require("cheerio");
 const { materias } = require('./data');
 const { lastSeenTitles, saveSeenPosts } = require('./seen-posts');
 
-async function checkForum(name, channel) {
+async function checkForum(name, channel, client) {
     const materiaInfo = materias[name];
     if (materiaInfo == null) {
         if (channel) channel.send("Parece haber un error, este grupo no esta en la lista de materias con foros :(");
@@ -99,9 +99,9 @@ async function checkForum(name, channel) {
     }
 }
 
-async function checkAllForums() {
+async function checkAllForums(client) {
     for (const name of Object.keys(materias)) {
-        await checkForum(name);
+        await checkForum(name,null,client);
     }
 }
 
